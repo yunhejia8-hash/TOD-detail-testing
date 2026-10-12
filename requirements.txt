@@ -1,0 +1,11 @@
+# Python 3.12；CPU 环境。固定主要依赖版本，避免自动升级影响接口。
+pymupdf==1.27.2.3
+paddleocr==3.7.0
+paddlepaddle==3.3.1
+paddlex[ocr-core]==3.7.1
+opencv-contrib-python==4.10.0.84
+pillow==12.2.0
+numpy==2.3.5
+rapidfuzz==3.14.5
+jieba==0.42.1
+openpyxl==3.1.5
